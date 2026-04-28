@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Zarah Intan Sitepu",
+  name: "Zarah Intan",
   photo: "./img/intan.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -80,9 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
-        "Hari ulang tahun itu buat gue bukan soal usia. Buat gue, ini momen buat nengok ke belakang sebentar — ngeliat sejauh apa udah jalan, ngehargain semua yang udah dilewatin, dan nyadarin bahwa survive itu juga pencapaian.",
-        "Lo udah lewatin banyak hal. Gue nggak tau semua detailnya — ada bagian-bagian hidup lo yang lo jaga sendiri, dan itu hak lo. Tapi dari yang gue tau, dari yang gue lihat di keseharian kita, gue bisa bilang: lo udah jalanin ini semua dengan cara yang nggak semua orang sanggup.",
+        "You are <strong>Special</strong> <span>:)</span>",
       ],
       bigLetters: "SO",
     },
